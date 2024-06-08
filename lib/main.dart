@@ -1,5 +1,5 @@
 import 'package:chat_app/auth/auth_date.dart';
-import 'package:chat_app/firebase_options.dart';
+import 'package:chat_app/firebase/firebase_options.dart';
 import 'package:chat_app/themes/theme_provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
